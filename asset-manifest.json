@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interactive-learning-portfolio/static/css/main.630bf4be.css",
+    "main.js": "/interactive-learning-portfolio/static/js/main.0be215ed.js",
+    "index.html": "/interactive-learning-portfolio/index.html",
+    "main.630bf4be.css.map": "/interactive-learning-portfolio/static/css/main.630bf4be.css.map",
+    "main.0be215ed.js.map": "/interactive-learning-portfolio/static/js/main.0be215ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.630bf4be.css",
+    "static/js/main.0be215ed.js"
+  ]
+}
