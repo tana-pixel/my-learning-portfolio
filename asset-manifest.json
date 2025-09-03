@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-learning-portfolio/static/css/main.c40133c8.css",
+    "main.js": "/my-learning-portfolio/static/js/main.741ae17c.js",
+    "index.html": "/my-learning-portfolio/index.html",
+    "main.c40133c8.css.map": "/my-learning-portfolio/static/css/main.c40133c8.css.map",
+    "main.741ae17c.js.map": "/my-learning-portfolio/static/js/main.741ae17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40133c8.css",
+    "static/js/main.741ae17c.js"
+  ]
+}
